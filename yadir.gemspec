@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.version       = "0.0.1"
   s.author        = "Paul Repin"
   s.email         = "paul.repin@gmail.com"
-  s.homepage      = "http://prepin.net"
+  s.homepage      = "https://github.com/prepin/yadir"
   s.platform      = Gem::Platform::RUBY
   s.required_ruby_version = '>=1.9'
   s.files         = Dir['**/**']
