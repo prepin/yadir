@@ -1,0 +1,6 @@
+.DS_Store
+cert/*
+.rvmrc
+execution.rb
+*.gem
+test/oauth_test.rb
