@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name          = "ya_dir"
+  s.name          = "yadir"
   s.summary       = "Yandex.Direct API wrapped in Ruby"
   s.description   = File.read(File.join(File.dirname(__FILE__), 'README'))
   s.requirements  = ['xmlsimple gem']
@@ -16,4 +16,4 @@ Gem::Specification.new do |s|
   s.executables   = []
   s.test_files    = Dir["test/test*.rb"]
   s.has_rdoc      = false
-endh
+end
